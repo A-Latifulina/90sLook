@@ -1,2 +1,2 @@
 # WebDevPractice
-HTML, CSS practice
+Practicing HTML, CSS, Bootstrap, JS, jQuery, Node.JS, API, EJS, SQL, MongoDB, Mongoose, and other things. 
