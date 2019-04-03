@@ -8,19 +8,23 @@ hr {
     width:65%;
 }
 img {
-    width:80%;
-    height:80%;
-    border-radius: 10px;
+    width:100%;
+    height:100%;
+    border-radius: 50px;
 }
-h1 {
-    color:#5f50ff;
+img:hover {
+    opacity: .5;
+}
+p1 {
+    color: #310080;
+    font-family: DidactGothic-Regular;
 }
 h2 {
-    color:#5f50ff;
+    color:#4c00ff;
 }
 h3 {
-    color:#5f50ff;
+    color:#4c00ff;
 }
 h4 {
-    color:#5f50ff;
+    color:#4c00ff;
 }
